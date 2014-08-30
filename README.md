@@ -1,3 +1,5 @@
+WebSocket & Golang sandbox
+
 ```bash
 ja@x220:~$ wstop -httpd -process emacs,docker,gimp
 ```
